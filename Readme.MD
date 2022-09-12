@@ -6,7 +6,7 @@ Built by Daniel Oluwajuwon
 
 ## if you are using windows
 
-`env\Scripts\activate1`
+`env\Scripts\activate`
 
 ### Other OS
 
